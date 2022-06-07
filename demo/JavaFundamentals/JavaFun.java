@@ -67,7 +67,7 @@ class JavaFun{
 
         // key-value pair -- hashmap
         HashMap<String, Integer> petmap = new HashMap<String, Integer>();
-        petmap.put("Pepper", 14);
+        petmap.put("Pepper", 14); // put = add/set
         petmap.put("Stitch", 2);
         petmap.put("idk", 100);
         petmap.put("Pepper", 20);
